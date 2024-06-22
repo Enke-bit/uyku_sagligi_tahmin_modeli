@@ -22,10 +22,10 @@ Veri seti, çeşitli demografik ve sağlıkla ilgili bilgileri içerir. Kullanı
 ## Gereksinimler
 Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç vardır:
 
-pandas
-matplotlib
-seaborn
-scikit-learn
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
 
 ## Modelin doğruluk oranı
 
