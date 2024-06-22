@@ -32,7 +32,7 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç 
 Accuracy: 0.967741935483871
 
 ## Sonuç
-Bu projede, bebek sağlığı ile ilgili bir veri seti kullanarak vücut kitle indeksi (BMI) kategorisini tahmin eden bir makine öğrenimi modeli geliştirdik. Modelin performansını değerlendirdik ve çeşitli görselleştirmelerle sonuçları analiz ettik.
+Bu projede, uyku sağlığı ile ilgili bir veri seti kullanarak vücut kitle indeksi (BMI) kategorisini tahmin eden bir makine öğrenimi modeli geliştirdik. Modelin performansını değerlendirdik ve çeşitli görselleştirmelerle sonuçları analiz ettik.
 
 ## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
