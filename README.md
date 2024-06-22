@@ -5,19 +5,19 @@ Bu çalışma uyku sağlığı tahmin modeli ve uyku kalitesini bu katogorik ver
 ## Veri Seti
 Veri seti, çeşitli demografik ve sağlıkla ilgili bilgileri içerir. Kullanılan özellikler şunlardır:
 
-Person ID: Kişi kimliği
-Gender: Cinsiyet
-Age: Yaş
-Occupation: Meslek
-Sleep Duration: Uyku süresi
-Quality of Sleep: Uyku kalitesi
-Physical Activity Level: Fiziksel aktivite seviyesi
-Stress Level: Stres seviyesi
-BMI Category: BMI kategorisi (hedef değişken)
-Blood Pressure: Kan basıncı
-Heart Rate: Kalp atış hızı
-Daily Steps: Günlük adım sayısı
-Sleep Disorder: Uyku bozukluğu
+- Person ID: Kişi kimliği
+- Gender: Cinsiyet
+- Age: Yaş
+- Occupation: Meslek
+- Sleep Duration: Uyku süresi
+- Quality of Sleep: Uyku kalitesi
+- Physical Activity Level: Fiziksel aktivite seviyesi
+- Stress Level: Stres seviyesi
+- BMI Category: BMI kategorisi (hedef değişken)
+- Blood Pressure: Kan basıncı
+- Heart Rate: Kalp atış hızı
+- Daily Steps: Günlük adım sayısı
+- Sleep Disorder: Uyku bozukluğu
 
 ## Gereksinimler
 Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç vardır:
